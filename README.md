@@ -1,0 +1,1 @@
+--- Hi, this is an employment mangement system database project i picked interest in starting for practicing design and MySQL datastructures.
